@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "mancuria-automotriz"
+  },
+  "targets": {
+    "mancuria-automotriz": {
+      "hosting": {
+        "dashboard": [
+          "mancuria-dashboard"
+        ],
+        "landing": [
+          "mancuria-automotriz"
+        ]
+      }
+    }
+  }
+}
